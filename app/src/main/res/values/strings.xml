@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejemplo  mvvm0</string>
+    <string name="app_textviewtext">"Nombre: -\nEdad: -"</string>
+    <string name="app_edittextnombrehint">"Nombre"</string>
+    <string name="app_edittextedadhint">"Edad"</string>
+    <string name="app_botontext">"Guardar"</string>
+</resources>
